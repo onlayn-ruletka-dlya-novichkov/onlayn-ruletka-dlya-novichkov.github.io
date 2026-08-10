@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: onlayn-ruletka-dlya-novichkov.github.io
+Sitemap: https://onlayn-ruletka-dlya-novichkov.github.io/sitemap.xml
